@@ -1,0 +1,2 @@
+# Standard library only - no dependencies!
+# (Because adding dependencies would be ironic for a config finder)
